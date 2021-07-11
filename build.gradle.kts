@@ -13,7 +13,6 @@ repositories {
 
 dependencies {
     implementation("com.aventrix.jnanoid:jnanoid:2.0.0")
-    implementation ("nano-id:nano-id:0.9.3")
 
     testImplementation(kotlin("test-junit5"))
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
